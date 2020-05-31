@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{17B85CD6-A54D-4EB5-BB8A-E82E453E1851}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Design</RootNamespace>
+    <AssemblyName>Design</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dsBahan.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBahan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsBarang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBarang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsDiskon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsDiskon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsJenisBarang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsJenisBarang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsKaryawan.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsKaryawan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsMember1.Designer.cs">
+      <DependentUpon>dsMember.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="dsRole.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRole.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsSupplier.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSupplier.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FairyHouseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FairyHouseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Update Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Member.Designer.cs">
+      <DependentUpon>Update Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Diskon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Diskon.Designer.cs">
+      <DependentUpon>Tambah Diskon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Member.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Member.Designer.cs">
+      <DependentUpon>Tambah Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Diskon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Diskon.Designer.cs">
+      <DependentUpon>Update Diskon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateBahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateBahan.Designer.cs">
+      <DependentUpon>UpdateBahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Bahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Bahan.Designer.cs">
+      <DependentUpon>Tambah Bahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HalamanAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HalamanAdmin.Designer.cs">
+      <DependentUpon>HalamanAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Barang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Barang.Designer.cs">
+      <DependentUpon>Tambah Barang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Barang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Barang.Designer.cs">
+      <DependentUpon>Update Barang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Jenis Barang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Jenis Barang.Designer.cs">
+      <DependentUpon>Tambah Jenis Barang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Jenis Barang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Jenis Barang.Designer.cs">
+      <DependentUpon>Update Jenis Barang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Role.Designer.cs">
+      <DependentUpon>Tambah Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Role.Designer.cs">
+      <DependentUpon>Update Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Karyawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Karyawan.Designer.cs">
+      <DependentUpon>Tambah Karyawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Karyawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Karyawan.Designer.cs">
+      <DependentUpon>Update Karyawan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Supplier.Designer.cs">
+      <DependentUpon>Update Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tambah Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tambah Supplier.Designer.cs">
+      <DependentUpon>Tambah Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halaman Utama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Halaman Utama.Designer.cs">
+      <DependentUpon>Halaman Utama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Update Member.resx">
+      <DependentUpon>Update Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Diskon.resx">
+      <DependentUpon>Tambah Diskon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Member.resx">
+      <DependentUpon>Tambah Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Diskon.resx">
+      <DependentUpon>Update Diskon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateBahan.resx">
+      <DependentUpon>UpdateBahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Bahan.resx">
+      <DependentUpon>Tambah Bahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HalamanAdmin.resx">
+      <DependentUpon>HalamanAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Barang.resx">
+      <DependentUpon>Tambah Barang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Barang.resx">
+      <DependentUpon>Update Barang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Jenis Barang.resx">
+      <DependentUpon>Tambah Jenis Barang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Jenis Barang.resx">
+      <DependentUpon>Update Jenis Barang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Role.resx">
+      <DependentUpon>Tambah Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Role.resx">
+      <DependentUpon>Update Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Karyawan.resx">
+      <DependentUpon>Tambah Karyawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Karyawan.resx">
+      <DependentUpon>Update Karyawan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Supplier.resx">
+      <DependentUpon>Update Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tambah Supplier.resx">
+      <DependentUpon>Tambah Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Halaman Utama.resx">
+      <DependentUpon>Halaman Utama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="dsBahan.xsc">
+      <DependentUpon>dsBahan.xsd</DependentUpon>
+    </None>
+    <None Include="dsBahan.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBahan.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsBahan.xss">
+      <DependentUpon>dsBahan.xsd</DependentUpon>
+    </None>
+    <None Include="dsBarang.xsc">
+      <DependentUpon>dsBarang.xsd</DependentUpon>
+    </None>
+    <None Include="dsBarang.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBarang.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsBarang.xss">
+      <DependentUpon>dsBarang.xsd</DependentUpon>
+    </None>
+    <None Include="dsDiskon.xsc">
+      <DependentUpon>dsDiskon.xsd</DependentUpon>
+    </None>
+    <None Include="dsDiskon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDiskon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsDiskon.xss">
+      <DependentUpon>dsDiskon.xsd</DependentUpon>
+    </None>
+    <None Include="dsJenisBarang.xsc">
+      <DependentUpon>dsJenisBarang.xsd</DependentUpon>
+    </None>
+    <None Include="dsJenisBarang.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsJenisBarang.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsJenisBarang.xss">
+      <DependentUpon>dsJenisBarang.xsd</DependentUpon>
+    </None>
+    <None Include="dsKaryawan.xsc">
+      <DependentUpon>dsKaryawan.xsd</DependentUpon>
+    </None>
+    <None Include="dsKaryawan.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsKaryawan.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsKaryawan.xss">
+      <DependentUpon>dsKaryawan.xsd</DependentUpon>
+    </None>
+    <None Include="dsMember.xsc">
+      <DependentUpon>dsMember.xsd</DependentUpon>
+    </None>
+    <None Include="dsMember.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsMember1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsMember.xss">
+      <DependentUpon>dsMember.xsd</DependentUpon>
+    </None>
+    <None Include="dsRole.xsc">
+      <DependentUpon>dsRole.xsd</DependentUpon>
+    </None>
+    <None Include="dsRole.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRole.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsRole.xss">
+      <DependentUpon>dsRole.xsd</DependentUpon>
+    </None>
+    <None Include="dsSupplier.xsc">
+      <DependentUpon>dsSupplier.xsd</DependentUpon>
+    </None>
+    <None Include="dsSupplier.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSupplier.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsSupplier.xss">
+      <DependentUpon>dsSupplier.xsd</DependentUpon>
+    </None>
+    <None Include="FairyHouseDataSet.xsc">
+      <DependentUpon>FairyHouseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FairyHouseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FairyHouseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FairyHouseDataSet.xss">
+      <DependentUpon>FairyHouseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

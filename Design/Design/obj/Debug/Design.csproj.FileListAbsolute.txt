@@ -1,0 +1,80 @@
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\bin\Debug\Design.exe.config
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\bin\Debug\Design.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\bin\Debug\Design.pdb
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\bin\Debug\Bunifu_UI_v1.52.dll
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form14.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form15.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form12.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form13.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form10.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form11.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form8.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form9.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form7.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form5.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form6.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form4.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form3.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form2.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Form1.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.Properties.Resources.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.csproj.CopyComplete
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\Project\VB\Design\Design\obj\Debug\Design.pdb
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\bin\Debug\Design.exe.config
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\bin\Debug\Design.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\bin\Debug\Design.pdb
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\bin\Debug\Bunifu_UI_v1.52.dll
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form14.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form15.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form12.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form13.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form10.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form11.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form8.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form9.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form7.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form5.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form6.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form4.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form3.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form2.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Form1.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.Properties.Resources.resources
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.csproj.CopyComplete
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.exe
+D:\KULIAH\SEMESTER 2\PEMROGRAMAN 2\1. PROJECT\Visual Studio\Design\Design\obj\Debug\Design.pdb
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\bin\Debug\Design.exe.config
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\bin\Debug\Design.exe
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\bin\Debug\Design.pdb
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.csprojAssemblyReference.cache
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form14.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form15.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form7.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form6.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.TambahSupplier.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form3.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form2.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Form1.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.Properties.Resources.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.csproj.GenerateResource.cache
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.csproj.CopyComplete
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.exe
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.pdb
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.TambahRole.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.TambahKaryawan.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.UpdateRole.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.UpdateSupplier.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.UpdateKaryawan.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.TambahBarang.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.UpdateBarang.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.TambahJenisBarang.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.UpdateJenisBarang.resources
+D:\POLMAN ASTRA(N)\SEMESTER 2\Pemrograman 2\PROJECT\Source code\ULANG\Design\Design\obj\Debug\Design.HalamanAdmin.resources
